@@ -2,3 +2,7 @@ print("Hello everyone!!");
 print("How are you?");
 print("What do you say?");
 print("What's happened?");
+print("Hello");
+print("What does she say?");
+
+
