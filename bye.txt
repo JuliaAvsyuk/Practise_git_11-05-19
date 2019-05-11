@@ -1,4 +1,4 @@
 print("Goodbye everyone!");
-What do you think about it?
-Did you do this?
-It seems I finished! =)
+print("What do you think about it?");
+print("Did you do this?");
+print("It seems I finished! =)");
