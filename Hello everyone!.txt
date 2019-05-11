@@ -1,4 +1,6 @@
 print("Hello everyone!!");
 print("How are you?");
 print("What do you say?");
-what's happened?
+what's happened
+Здравствуйте
+
