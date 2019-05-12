@@ -1,3 +1,4 @@
-/**
- * Created by Григоричь on 12.05.2019.
- */
+console.log("Hello everyone!!");
+setTimeout(
+    confirm("It's work!")
+, 3000);
