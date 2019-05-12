@@ -1,1 +1,3 @@
 print("Oho!");
+print("It's impossible! =)");
+print("It's that!");
