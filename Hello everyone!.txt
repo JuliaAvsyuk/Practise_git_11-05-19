@@ -6,7 +6,3 @@ print("Hello");
 print("What does she say?");
 ohohohoho
 
-
-
-
-
